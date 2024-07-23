@@ -15,7 +15,8 @@
 tar -xzvf Manyu.tar.gz
 ...
 ```
-Winrar
+Winrar<br>
+在线解压 :+1:
 ### 如何安装
 点击setup/install.exe
 ### 如何打开
