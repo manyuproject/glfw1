@@ -11,6 +11,10 @@
 ### 如何下载
 [Download](https://switch520.com)
 ### 如何解压
+```
+tar -xzvf Manyu.tar.gz
+...
+```
 Winrar
 ### 如何安装
 点击setup/install.exe
