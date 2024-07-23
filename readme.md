@@ -9,14 +9,14 @@
 + 功能3
 ## 使用
 ### 如何下载
-[Download](https://switch520.com)
+[Download](https://pan.baidu.com)
 ### 如何解压
 ```
 tar -xzvf Manyu.tar.gz
 ...
 ```
 Winrar<br>
-在线解压 :sweat_smile:
+~~在线解压~~ :sweat_smile:
 ### 如何安装
 点击setup/install.exe
 ### 如何打开
