@@ -1,4 +1,4 @@
-<h1 align="center">Manyu</h1>
+# Manyu
 ## 介绍
 这是项目的介绍部分
 [1](https://baidu/com)
